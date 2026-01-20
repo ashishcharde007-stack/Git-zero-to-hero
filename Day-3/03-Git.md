@@ -5,7 +5,7 @@
 - Git Branch (Basics)
 
 
-## 📌 Step 7: Check Branches
+## 📌 Step 1: Check Branches
 
 git branch
 
@@ -16,7 +16,7 @@ git branch
 
 ---
 
-## 📌 Step 8: Create New Branch
+## 📌 Step 2: Create New Branch
 
 git branch develop
 
@@ -30,7 +30,7 @@ git branch develop
 
 ---
 
-## 📌 Step 9: Switch to Develop Branch
+## 📌 Step 3: Switch to Develop Branch
 
 git switch develop
 
@@ -41,7 +41,7 @@ git switch develop
 
 ---
 
-## 📌 Step 10: Add & Commit in Develop Branch
+## 📌 Step 4: Add & Commit in Develop Branch
 
 git add .
 git commit -m "add index.html file"
